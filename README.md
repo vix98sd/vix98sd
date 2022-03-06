@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Thanks for viewing my profile!
+### Thanks for visiting my profile!
 - 🔭 I’m currently using both, github and gitlab. So some of my projects you can find on this github profile, and some of them you can find on [this](https://gitlab.com/vix98sd) gitlab profile.
 <!--
 **vix98sd/vix98sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
